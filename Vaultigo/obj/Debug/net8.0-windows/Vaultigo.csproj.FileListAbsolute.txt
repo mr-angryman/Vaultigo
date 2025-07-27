@@ -1,0 +1,16 @@
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\bin\Debug\net8.0-windows\Vaultigo.exe
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\bin\Debug\net8.0-windows\Vaultigo.deps.json
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\bin\Debug\net8.0-windows\Vaultigo.runtimeconfig.json
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\bin\Debug\net8.0-windows\Vaultigo.dll
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\bin\Debug\net8.0-windows\Vaultigo.pdb
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.Main.resources
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.csproj.GenerateResource.cache
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.AssemblyInfoInputs.cache
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.AssemblyInfo.cs
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.csproj.CoreCompileInputs.cache
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.dll
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\refint\Vaultigo.dll
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.pdb
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\Vaultigo.genruntimeconfig.cache
+C:\Users\notyo\source\repos\Vaultigo\Vaultigo\obj\Debug\net8.0-windows\ref\Vaultigo.dll
