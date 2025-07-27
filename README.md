@@ -12,7 +12,6 @@
   - Include uppercase, lowercase, numbers, symbols
   - Exclude similar characters (e.g., O, 0, l, I)
   - Prevent duplicate or sequential characters
-  - Force password to start with a letter
 - 🎯 Simple and intuitive UI
 - 🚀 Lightning fast and offline
 - 🧩 Fully open-source and extensible
